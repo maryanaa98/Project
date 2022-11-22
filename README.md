@@ -24,6 +24,7 @@ To guarantee that the project's criteria were properly met, I matched the define
 
 
 If you had more time, what is one thing you would improve upon?
+
 Including unit testing into my project. The advantage of unit tests is that they isolate a function, class, method and only test that specific code. Individual components of higher quality contribute to overall system robustness.
 
 What did you most enjoy implementing?
